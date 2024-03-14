@@ -1,0 +1,11 @@
+Ex6.1
+-It printed "You 've choosen: No"
+-In this code line
+JOptionPane.showMessageDialog(null, (option == JOptionPane.YES_NO_OPTION ? "Yes" : "No"));
+I change Yes or No like below                                               oke     ???
+as I did in ChoosingOption.java
+
+Em chân thành xin lỗi thầy vì đã nộp bài quá deadline
+Do là laptop em bị hỏng ạ và em cũng loay hoay với github ạ
+Mong thầy bỏ qua cho em lần sai sót này ạ
+Em xin cảm ơn ạ!
